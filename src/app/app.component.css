@@ -6,6 +6,12 @@
 
 @media screen and (max-width: 768px) {
     .pdf-embed {
-        height: 80vh;
+        height: 60vh;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .pdf-embed {
+        height: 50vh;
     }
 }
